@@ -1,0 +1,72 @@
+* L. Heliot
+
+** MiFoBio du 5 au 12 2018
+** Ondes sur le vivant (milieux très diffusant)
+
+
+* F. Guillemot
+
+poeitis BioImpression - spinoff inserm interdisciplinaire - thèse modélisation
+
+** rq: peux de produits pb de process ingeeniring (aka comment passer à l'échelle)
+
+
+** bioprinting : impression additive
+*** image -> CAD -> print -> mature
+*** 3 methodes:
+   - bioextrusion
+   - microvalvee
+   - inkjet
+   - laser
+
+*** laser
+   - pulse 10k goutes phi 50µm / s
+
+** follicule pileux avec L'Oreal
+
+** Cytocentric CAD?
+
+** Bioimprimantes
+   - imagerie
+   - _enjeux de design_
+
+** Questions
+   - approche =/= Alveole -> plutôt morphogenèse
+   - pb le + imortant: atterissage -- très bonne viabilité
+   - pas de collagène métacrylé???
+
+* Angelo Accardo LAAS
+  *3D printing and multiscale cell microenvironements*
+
+
+* Stéphanie Descroix Curie / PGdG
+  *Microfluidique et biomimetisme*
+
+
+* Laure Gibot
+*Mesures par AFM des propriétés mécaniques d'un même type cellulaire*
+
+Quel modèle présente le pus de ressemblance avec le tissu en termes mécaniques
+
+À partir de fibroblastes de dermes de biopsies
+  - À plat
+  - en sphéroïdes
+  - auto-assemblée en feuillet
+
+
+* Thomas Dehoux
+*Mapping drug mechano-sensitivity in tumoral tissues*
+
+Tension & capacités métastasiques des tumeurs sont >0 corrélées
+Briouillin:
+   - rigidité \propto vitesse du son (frequence stokes)
+   - viscosité \propto largeur de la bande Briouillin (e.g. durée de vie d'unu phonon)
+
+* Antoine Delon
+   - Billes acryl-amides pour mesurer les pressions dans un sphéroïde
+   - FCS -> tps de diffusion -> pression
+
+* Morgan Delarue
+   - Impact des contraintes mécaniques
+   - stress en tension (rigidité de la matrice) -> mult. consequ.
+   - growth induced compressive stress
